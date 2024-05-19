@@ -13,6 +13,7 @@ PyMuPDF
 PyPDF2
 
 # Installation
+É necessário que o ambiente python padrão com pip esteja configurado.
 pip install -r requirements.txt
 
 # Usage 
@@ -23,5 +24,3 @@ Cada célula está comentada com detalhes e informações importantes da impleme
 
 # Conclusion
 Esta ferramenta oferece uma maneira flexível de trabalhar com arquivos PDF usando duas bibliotecas diferentes. Você pode extrair e editar metadados, bem como extrair conteúdo de texto, tornando-o útil para diversas tarefas de data science. Escolha a biblioteca que melhor atende às suas necessidades ou use ambas para maior flexibilidade.
-
-
