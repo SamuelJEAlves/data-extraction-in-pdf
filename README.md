@@ -1,4 +1,4 @@
-# Extração de texto e metadados de arquivos PDF, bem como editação dos metadados.
+# Extração de texto e metadados de arquivos PDF, bem como edição dos metadados.
 - Este projeto fornece uma ferramenta Python para extrair texto e metadados de arquivos PDF, bem como editar os metadados, usando duas bibliotecas diferentes: PyMuPDF e PyPDF2.
 
 # Features
